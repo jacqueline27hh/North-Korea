@@ -1,7 +1,7 @@
 /* Stylesheet */
 /* line 1, common.scss */
 .errorMsg {
-  color: #fff;
+  color: red;
   font-family: 'Lato', sans-serif;
   font-weight: lighter;
   letter-spacing: 0.05rem;
