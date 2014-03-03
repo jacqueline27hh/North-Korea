@@ -1,0 +1,14 @@
+/* Stylesheet */
+/* line 1, common.scss */
+.errorMsg {
+<<<<<<< HEAD
+  color: red;
+=======
+  color: #000;
+>>>>>>> b6a83da51fc364b893daeab7c65aa9972fa295ee
+  font-family: 'Lato', sans-serif;
+  font-weight: lighter;
+  letter-spacing: 0.05rem;
+  margin: 0;
+  font-size: 1.7rem;
+}
